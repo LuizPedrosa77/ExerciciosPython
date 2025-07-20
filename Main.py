@@ -1,1 +1,0 @@
-print("Olá, mundo! Este é um exemplo de código Python.")
