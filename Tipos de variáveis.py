@@ -60,3 +60,4 @@ def calcular_media():
 ler_numero()
 calcular_soma()
 calcular_media()
+# Tipos de variáveis em Python
